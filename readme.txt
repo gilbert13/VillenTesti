@@ -6,4 +6,8 @@ tänne lisätty tekstiä.
 
 Tagaan tämän just LISSEE HYVVEE.
 
-ROLBACKKAAN
+ROLBACKKAAN.
+
+MENEEkö tää lisäjuttu tiettyyn tagiin? 1.6?
+
+PÄIVITYS
