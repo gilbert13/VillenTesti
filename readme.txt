@@ -4,4 +4,6 @@ Toiseksi commitoitu sisältö dellattu
 ja
 tänne lisätty tekstiä.
 
-Tagaan tämän just LISSEE HYVVEE
+Tagaan tämän just LISSEE HYVVEE.
+
+ROLBACKKAAN
